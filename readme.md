@@ -9,3 +9,5 @@ if using another file, place in mss_project directory (file must be a wave) and 
 
 change line 17 to specify amount of output stems (options are in the preceding lines)
 
+run 'split.py'
+
